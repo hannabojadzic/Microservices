@@ -37,3 +37,12 @@ Bitni folderi koje je potrebno prenijeti ako se koristi neka druga distribucija:
 - \openresty-1.21.4.1-win64\lualib
 - cert folder
 - Nginx konfiguracija: \openresty-1.21.4.1-win64\conf
+
+## Aplikacija
+
+![alt text](https://github.com/hannabojadzic/Microservices/blob/main/chatbox.jpg?raw=true)
+![alt text](https://github.com/hannabojadzic/Microservices/blob/main/detailView.jpg?raw=true)
+![alt text](https://github.com/hannabojadzic/Microservices/blob/main/news.jpg)
+![alt text](https://github.com/hannabojadzic/Microservices/blob/main/laptops.jpg)
+![alt text](https://github.com/hannabojadzic/Microservices/blob/main/health.jpg)
+![alt text](https://github.com/hannabojadzic/Microservices/blob/main/metrics.jpg)
